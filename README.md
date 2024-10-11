@@ -1,8 +1,8 @@
-## Hi there I'm Prasanya Shankar👋
+## Hi there I'm Devanand Singh👋
 Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, React JS, Bootstrap, Node.js, Express.js, SQLite, MongoDB, and Figma, I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=prasanya-web-developer&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Iamdeva7250&color=blueviolet)
 
 ## About Me
 - 💼 Full Stack Developer
@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 - [NxT Trendz](https://reactjsmini.ccbp.tech/login):  An E-Commerce website created using ReactJS with user authentication. Username: **rahul**,  Password: **rahul@2021**
 
 ## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanya-shankar/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prasanya.webdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdeva7250/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iamdeva7250.webdev@gmail.com)
 
 Feel free to explore my repository 😊!!
 
