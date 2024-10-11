@@ -1,7 +1,4 @@
-
-
-
-[README.md](https://github.com/user-attachments/files/17346704/README.md)## Hi there I'm Prasanya Shankar👋
+## Hi there I'm Prasanya Shankar👋
 Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, React JS, Bootstrap, Node.js, Express.js, SQLite, MongoDB, and Figma, I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
 
@@ -35,7 +32,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prasanya.webdev@gmail.com)
 
 Feel free to explore my repository 😊!!
-
 
 
 
