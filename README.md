@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 ## About Me
 - 💼 Full Stack Developer
 - 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js, Figma
-- ✨ Completed Full Stack Development at NxT Wave
-- 🎓 Pursuing Bachelor's in English Literature and Language
+- ✨ Completed Full Stack Development at Udemy !
+- 🎓 Pursuing Bachelor's in CSE
 
 ## Tools and Languages
 ![HTML](https://img.shields.io/badge/HTML-FF4500?style=flat&logo=html5&logoColor=white)
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdeva7250/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iamdeva7250.webdev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iamdeva7250@gmail.com)
 
 Feel free to explore my repository 😊!!
 
