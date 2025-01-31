@@ -7,8 +7,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 ## About Me
 - 💼 Full Stack Developer
 - 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js.
-- ✨ Completed Full Stack Development at NxT Wave
-- 🎓 Pursuing Bachelor's in English Literature and Language
+
 
 ## Tools and Languages
 ![HTML](https://img.shields.io/badge/HTML-FF4500?style=flat&logo=html5&logoColor=white)
@@ -25,7 +24,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 
 ## Projects
 - [Netflix Clone](https://reactjsmini.ccbp.tech/login):  A Netflix Clone App developed with user authentication. Username: ****,  Password: **@**
-- [NxT Trendz](https://reactjsmini.ccbp.tech/login):  An E-Commerce website created using ReactJS with user authentication. Username: ****,  Password: ****
+
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/iamdeva7250/)
