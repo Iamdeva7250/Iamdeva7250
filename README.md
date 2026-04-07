@@ -1,13 +1,13 @@
-## Hi there I'm  Devanand Singh👋
+## Hi there I'm Devanand Singh 👋
+
 Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, React JS, Bootstrap, Node.js, Express.js, SQLite, MongoDB, and Figma, I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Iamdeva7250&color=blueviolet)
+![GitHub Streak](https://streak-stats.demolab.com?user=Iamdeva7250&theme=tokyonight&hide_border=false)
 
 ## About Me
 - 💼 Full Stack Developer
-- 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js.
-
+- 🌱 Currently enhancing my skills in HTML, CSS, Tailwind CSS, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js.
 
 ## Tools and Languages
 ![HTML](https://img.shields.io/badge/HTML-FF4500?style=flat&logo=html5&logoColor=white)
@@ -19,12 +19,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
-
-
-
-## Projects
-- [Netflix Clone](https://reactjsmini.ccbp.tech/login):  A Netflix Clone App developed with user authentication. Username: ****,  Password: **@**
-
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdeva7250/)
