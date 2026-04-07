@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for building interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, React JS, Tailwind CSS, Node.js, Express.js, SQLite, MongoDB, Java, Python, NumPy, Pandas, Matplotlib, and Figma, I aim to combine technical expertise with problem-solving skills to deliver impactful solutions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Iamdeva7250&color=blueviolet)
+![GitHub Streak](https://streak-stats.demolab.com?user=Iamdeva7250&theme=tokyonight&hide_border=false)
 
 ## About Me
 - 💼 Full Stack Developer
